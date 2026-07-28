@@ -1,0 +1,11 @@
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTSerializePublish.c
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTConnect.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTPublish.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTSubscribe.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTUnsubscribe.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTFormat.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\StackTrace.h
+gateway\mqttserializepublish.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdio.h
+gateway\mqttserializepublish.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+gateway\mqttserializepublish.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h

@@ -1,0 +1,11 @@
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTFormat.c
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\StackTrace.h
+gateway\mqttformat.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdio.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTConnect.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTPublish.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTSubscribe.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTUnsubscribe.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTFormat.h
+gateway\mqttformat.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+gateway\mqttformat.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h

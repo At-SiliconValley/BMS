@@ -1,0 +1,12 @@
+gateway\port.o: ..\Mid\FreeRTOS\portable\RVDS\port.c
+gateway\port.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+gateway\port.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gateway\port.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gateway\port.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+gateway\port.o: ../Mid/FreeRTOS/include/projdefs.h
+gateway\port.o: ../Mid/FreeRTOS/include/portable.h
+gateway\port.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+gateway\port.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+gateway\port.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+gateway\port.o: ../Mid/FreeRTOS/include/task.h
+gateway\port.o: ../Mid/FreeRTOS/include/list.h

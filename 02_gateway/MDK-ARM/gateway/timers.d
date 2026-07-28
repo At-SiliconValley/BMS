@@ -1,0 +1,15 @@
+gateway\timers.o: ..\Mid\FreeRTOS\source\timers.c
+gateway\timers.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gateway\timers.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+gateway\timers.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gateway\timers.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gateway\timers.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+gateway\timers.o: ../Mid/FreeRTOS/include/projdefs.h
+gateway\timers.o: ../Mid/FreeRTOS/include/portable.h
+gateway\timers.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+gateway\timers.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+gateway\timers.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+gateway\timers.o: ../Mid/FreeRTOS/include/task.h
+gateway\timers.o: ../Mid/FreeRTOS/include/list.h
+gateway\timers.o: ../Mid/FreeRTOS/include/queue.h
+gateway\timers.o: ../Mid/FreeRTOS/include/timers.h

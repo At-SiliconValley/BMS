@@ -1,0 +1,15 @@
+gateway\queue.o: ..\Mid\FreeRTOS\source\queue.c
+gateway\queue.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gateway\queue.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+gateway\queue.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+gateway\queue.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gateway\queue.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gateway\queue.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+gateway\queue.o: ../Mid/FreeRTOS/include/projdefs.h
+gateway\queue.o: ../Mid/FreeRTOS/include/portable.h
+gateway\queue.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+gateway\queue.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+gateway\queue.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+gateway\queue.o: ../Mid/FreeRTOS/include/task.h
+gateway\queue.o: ../Mid/FreeRTOS/include/list.h
+gateway\queue.o: ../Mid/FreeRTOS/include/queue.h

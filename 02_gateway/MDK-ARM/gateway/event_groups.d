@@ -1,0 +1,15 @@
+gateway\event_groups.o: ..\Mid\FreeRTOS\source\event_groups.c
+gateway\event_groups.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+gateway\event_groups.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gateway\event_groups.o: C:\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/projdefs.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/portable.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+gateway\event_groups.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/task.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/list.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/timers.h
+gateway\event_groups.o: ../Mid/FreeRTOS/include/event_groups.h
